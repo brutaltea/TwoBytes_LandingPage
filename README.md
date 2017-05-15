@@ -1,1 +1,5 @@
-TwoBytes_LandingPage
+Example of simple landing page.
+	-HTML
+	-CSS
+	-Bootstrap
+	-Sass
